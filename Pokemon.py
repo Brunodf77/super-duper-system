@@ -7,6 +7,7 @@ def creationPokemon() :
         "Attaque" : input ("Selectionner une attaque"),
         "Defense" : input ("Selectionner une Defense"),
         "POWER" : input ("Selectionner un Power"),
+        "D" : input ("Selectionner un D"),
         
     }        
 
