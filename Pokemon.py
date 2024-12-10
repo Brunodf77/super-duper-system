@@ -6,6 +6,8 @@ def creationPokemon() :
         "HP" : input ("Selectionner des HP"),
         "Attaque" : input ("Selectionner une attaque"),
         "Defense" : input ("Selectionner une Defense"),
+        "POWER" : input ("Selectionner un Power"),
+        
     }        
 
 def ajouteauPokedex(pokemon) : 
